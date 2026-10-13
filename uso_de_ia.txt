@@ -1,0 +1,7 @@
+Prompt: Dame 6 libros conocidos en Chile con sus respectivos autores,
+editorial y precios.
+
+Los libros registrados son precisamente los que me entrego
+copilot, ya que se me hizo complidado el hecho de no saber
+y quería poner datos reales
+
